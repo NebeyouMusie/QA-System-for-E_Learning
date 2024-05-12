@@ -45,6 +45,13 @@
  - I've a MAC computer. Can I use powerbi on it?
  - I don't see power pivot. how can I enable it?
 
+## Project Structure
+- app.py: The main Streamlit application script.
+- langchain_utils.py: This has all the langchain code
+- requirements.txt: A list of required Python packages for the project.
+- notebook: jupyter notebook folder
+- .env: Configuration file for storing your Google API key.
+
 ## Contributions
  - Contributions are welcomed
 
