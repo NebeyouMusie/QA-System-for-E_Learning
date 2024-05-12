@@ -59,7 +59,7 @@
  - Give this project a star ⭐ if you like it
 
 ## Acknowledgements
- - I would like to thank [codebasics]() 
+ - I would like to thank [codebasics](https://www.youtube.com/@codebasics) 
    
 ## Author
  - LinkedIn: [Nebeyou Musie](https://www.linkedin.com/in/nebeyou-musie)
