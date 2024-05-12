@@ -1,5 +1,5 @@
 # Question & Answer System for E-Learning
- - This is an end to end LLM project based on GoogleGenAI and Langchain. In this project I built a Q&A system based on a data from an e-learning company called codebasics (website: codebasics.io). Codebasics sells data related courses and bootcamps. They have thousands of learners who uses discord server or email to ask questions. This system will provide a streamlit based user interface for students where they can ask questions and get answers.
+ - This is an end to end LLM project based on Google Generative AI and Langchain. In this project I built a Q&A system based on a data from an e-learning company called codebasics (website: codebasics.io). Codebasics sells data related courses and bootcamps. They have thousands of learners who uses discord server or email to ask questions. This system will provide a streamlit based user interface for students where they can ask questions and get answers.
 
  ![E-Learning Image](./image/e-learning-image.png)
 
