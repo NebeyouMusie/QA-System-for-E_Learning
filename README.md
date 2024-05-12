@@ -39,7 +39,7 @@
     - Now you are ready to ask questions. Type your question in Question box and hit Enter
 
 ## Sample Questions
- -Do you guys provide internship and also do you offer EMI payments?
+ - Do you guys provide internship and also do you offer EMI payments?
  - Do you have javascript course?
  - Should I learn power bi or tableau?
  - I've a MAC computer. Can I use powerbi on it?
