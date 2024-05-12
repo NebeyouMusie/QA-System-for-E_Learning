@@ -24,15 +24,26 @@
  1. Prerequisites
     - Git
     - Command line familiarity
- 2. Clone the Repository: `git clone https://github.com/NebeyouMusie/LLM-implementation-using-groq-api-with-streamlit.git`
+ 2. Clone the Repository: `git clone https://github.com/NebeyouMusie/QA-System-for-E_Learning.git`
  3. Create and Activate Virtual Environment (Recommended)
     - `python -m venv venv`
     - `source venv/bin/activate`
- 4. Navigate to the projects directory `cd ./LLM-implementation-using-groq-api-with-streamlit` using your terminal
- 4. Install Libraries: `pip install -r requirements.txt`
- 5. run `streamlit run app.py`
- 6. Open the link displayed in the terminal on your browser
- 7. Start typing on the chat box
+ 4. Navigate to the projects directory `cd ./QA-System-for-E_Learning` using your terminal
+ 5. Install Libraries: `pip install -r requirements.txt`
+
+## Usage 
+ 1. run `streamlit run app.py`
+ 2. The web app will open in your browser.
+    - To create a knowledebase of FAQs, click on Create Knolwedge Base button. It will take some time before knowledgebase is created so please wait.
+    - Once knowledge base is created you will see a directory called faiss_index in your current folder
+    - Now you are ready to ask questions. Type your question in Question box and hit Enter
+
+## Sample Questions
+ -Do you guys provide internship and also do you offer EMI payments?
+ - Do you have javascript course?
+ - Should I learn power bi or tableau?
+ - I've a MAC computer. Can I use powerbi on it?
+ - I don't see power pivot. how can I enable it?
 
 ## Contributions
  - Contributions are welcomed
@@ -41,7 +52,7 @@
  - Give this project a star ⭐ if you like it
 
 ## Acknowledgements
- - I want to thank [codebasics]() 
+ - I would like to thank [codebasics]() 
    
 ## Author
  - LinkedIn: [Nebeyou Musie](https://www.linkedin.com/in/nebeyou-musie)
