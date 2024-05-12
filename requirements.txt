@@ -1,0 +1,4 @@
+langchain
+sentence-transformers==2.2.2
+langchain-google-genai
+python-dotenv
